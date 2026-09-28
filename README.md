@@ -65,3 +65,24 @@ Valorizo soluções bem estruturadas, documentação objetiva e aprendizado apli
   </p>
 
 </details>
+
+
+<h2>Contribuições</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lhbenlolo-dev/lhbenlolo-dev/bomberman-output/bomberman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lhbenlolo-dev/lhbenlolo-dev/bomberman-output/bomberman-contribution-graph.svg"
+    />
+    <img
+      alt="Animação de Bomberman com minhas contribuições no GitHub"
+      src="https://raw.githubusercontent.com/lhbenlolo-dev/lhbenlolo-dev/bomberman-output/bomberman-contribution-graph.svg"
+      width="900"
+    />
+  </picture>
+</p>
